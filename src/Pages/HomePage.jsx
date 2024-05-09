@@ -58,7 +58,7 @@ const HomePage = () => {
                     <img className='h-6' src={reset} alt="" />
                     <div className="flex items-center justify-evenly sm:w-[30%]">
                         <img src={left} className='h-12' alt="" />
-                        <span className='font-bold text-2xl'> 01/10 </span>
+                        <span className='font-bold sm:text-2xl text-xl'> 01/10 </span>
                         <img src={right} className='h-12' alt="" />
 
                     </div>
