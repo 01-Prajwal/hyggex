@@ -56,9 +56,9 @@ const HomePage = () => {
 
                 <div className="buttons flex w-[100%] sm:w-[60%] justify-evenly items-center mt-8">
                     <img className='h-6' src={reset} alt="" />
-                    <div className="flex items-center justify-evenly sm:w-[30%]">
+                    <div className="flex items-center justify-evenly w-[55%] sm:w-[30%]">
                         <img src={left} className='h-12' alt="" />
-                        <span className='font-bold sm:text-2xl text-xl'> 01/10 </span>
+                        <span className='sm:font-bold sm:text-2xl text-xl'> 01/10 </span>
                         <img src={right} className='h-12' alt="" />
 
                     </div>
