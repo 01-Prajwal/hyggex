@@ -20,7 +20,7 @@ const HomePage = () => {
         {/* sm:w-[54%] */}
 
             {/* <div className='flex  justify-center  sm:w-[54%] w-[100%]  h-44 '> */}
-            <div className="flex justify-center w-full sm:w-[53%]  h-44">
+            <div className="flex justify-center w-full sm:w-[57%]  h-44">
                 <div className="arrow-div flex items-center ">
                     <img src={home} alt="" />
                     <img src={arrow} alt="" />
@@ -33,7 +33,7 @@ const HomePage = () => {
 
 
             </div>
-            <div className="flex justify-center sm:w-[64%]">
+            <div className="flex justify-center sm:w-[67%]">
 
                 <h2 className=' text-lg sm:text-3xl gradient font-bold'>Relations and Functions ( Mathematics )</h2>
             </div>
